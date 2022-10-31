@@ -21,7 +21,7 @@ section{
 
 }
 .title{
-    font-size: 4rem;
+    font-size: 3rem;
     text-align: center;
 }
 cite{
@@ -32,10 +32,11 @@ cite{
 }
 main{
     background-color: #eee;
-    margin: 30px 8px;
+    /* margin: 30px 8px; */
     padding: 15px;
     border-radius: 5px;
 }
+
 figure{
     display: block;
     margin-block-start: 1em;
@@ -54,12 +55,12 @@ h3{
     font-weight: bold;
 }
 .img{
-    align-items: center;
+    display: block;
     max-width: 100%;
     display: block;
     height: auto;
     margin: 0 auto;
-    margin-right: 20px;
+    /* margin-right: 20px; */
 }
 .img-div{
     background: white;
